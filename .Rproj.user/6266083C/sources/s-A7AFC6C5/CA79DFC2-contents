@@ -1,0 +1,10 @@
+---
+title: "JSC370 Homework 5"
+author: "Yufan Qian"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
+---
+<br> 
+This is my conclusion page!
