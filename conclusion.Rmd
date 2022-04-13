@@ -7,4 +7,13 @@ output:
         toc_float: TRUE
 ---
 <br> 
-This is my conclusion page!
+
+### Conclusion
+
+In conclusion, we do see that:
+
+1. apps in the categories of `Communication` and `Social` are more popular than other types of apps, and have a relatively stable rating. apps like `Game` and `Tools` are only targeting specific group of people, thus are less popular but has higher rating due to their usage and entertainment characteristics.  
+
+2. all the most popular apps are small in size, and apps in the type of `Game` and `Family` are larger than other types. Other than that, we don't see any relationship between size of the app and ratings.
+
+3. number of installs of the apps can be used to indicate popularity, just like we used number of reviews for previous analysis.
